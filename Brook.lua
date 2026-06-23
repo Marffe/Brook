@@ -1,14 +1,3 @@
---- STEAMODDED HEADER
---- MOD_NAME: Brook
---- MOD_ID: Brook
---- MOD_AUTHOR: [Brookling, BaiMao]
---- MOD_DESCRIPTION: Add 15 vanilla-like Jokers
---- BADGE_COLOUR: EACCD2
---- PREFIX: broo
---- VERSION: 1.2.0
-----------------------------------------------
-------------MOD CODE -------------------------
-
 Brook = SMODS.current_mod
 
 Brook.description_loc_vars = function()

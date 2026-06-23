@@ -1,0 +1,16 @@
+{
+	"id": "Brook",
+	"name": "Brook",
+	"display_name": "Brook",
+	"author": ["Brookling", "BaiMao"],
+	"description": "Add 15 vanilla-like Jokers",
+	"prefix": "broo",
+	"main_file": "Brook.lua",
+	"badge_colour": "EACCD2",
+	"version": "1.2.0",
+	"icon_path": "icon.png",
+	"icon_width": 32,
+	"dependencies": [
+		"Steamodded (>=1.0.0~BETA-1620a)"
+	]
+}
